@@ -1,4 +1,4 @@
-# Grotlo
+# Grotlo [![Build Status](https://travis-ci.org/grotlo-force/grotlo.svg?branch=develop)](https://travis-ci.org/grotlo-force/grotlo)
 
 Grotlo is a set of libraries which provide basic building blocks for building distributed applications using 
 Distributed Saga protocol. This work is heavily inspired by 
